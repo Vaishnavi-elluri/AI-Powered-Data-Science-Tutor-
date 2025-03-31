@@ -62,5 +62,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For any queries, reach out to ellurivaishnavi55@gmail.com or visit [GitHub](https://github.com/your-username/ai-ds-tutor).
+For any queries, reach out to ellurivaishnavi55@gmail.com or visit [GitHub](https://github.com/Vaishnavi-elluri/AI-Powered-Data-Science-Tutor-.git).
 
